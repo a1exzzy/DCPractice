@@ -1,0 +1,14 @@
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\bin\Debug\net8.0\csharp-basics.exe
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\bin\Debug\net8.0\csharp-basics.deps.json
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\bin\Debug\net8.0\csharp-basics.runtimeconfig.json
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\bin\Debug\net8.0\csharp-basics.dll
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\bin\Debug\net8.0\csharp-basics.pdb
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.AssemblyInfoInputs.cache
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.AssemblyInfo.cs
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.csproj.CoreCompileInputs.cache
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.dll
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\refint\csharp-basics.dll
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.pdb
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\csharp-basics.genruntimeconfig.cache
+C:\Users\83654\..Projects\DistinctionCoding\csharp-basics\obj\Debug\net8.0\ref\csharp-basics.dll
